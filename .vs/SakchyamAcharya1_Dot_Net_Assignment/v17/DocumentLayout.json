@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\views\\orderpleases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\views\\orderpleases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\controllers\\orderpleasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\controllers\\orderpleasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\models\\orderplease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\models\\orderplease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\data\\migrations\\20250213150806_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\data\\migrations\\20250213150806_hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\controllers\\resturantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\controllers\\resturantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\models\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\models\\resturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|c:\\users\\dell\\source\\repos\\sakchyamacharya1_dot_net_assignment\\sakchyamacharya1_dot_net_assignment\\data\\migrations\\20250213134345_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6273FD65-9DEF-4AB8-B135-3F20763FED2D}|SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj|solutionrelative:sakchyamacharya1_dot_net_assignment\\data\\migrations\\20250213134345_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderPleasesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\OrderPleasesController.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\OrderPleasesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\OrderPleasesController.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\OrderPleasesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:42:06.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPlease.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\OrderPlease.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\OrderPlease.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\OrderPlease.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\OrderPlease.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:36:15.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250213152941_he.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213152941_he.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:29:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T15:19:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\OrderPleases\\Index.cshtml",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\OrderPleases\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\OrderPleases\\Index.cshtml",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\OrderPleases\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T15:47:32.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250213154231_h.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213154231_h.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:42:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250213150806_hello.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213150806_hello.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213150806_hello.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213150806_hello.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213150806_hello.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:08:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:48:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\appsettings.json",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T13:28:18.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:43:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResturantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\ResturantsController.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\ResturantsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\ResturantsController.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\ResturantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:55:46.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\DeliveriesController.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\DeliveriesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\DeliveriesController.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Controllers\\DeliveriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:04:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\Delivery.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\Delivery.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\Delivery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:59:06.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Program.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:49:44.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resturant.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\Resturant.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\Resturant.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\Resturant.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\Resturant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:51:21.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250213134345_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213134345_initialmigration.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213134345_initialmigration.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213134345_initialmigration.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Data\\Migrations\\20250213134345_initialmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:43:45.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T13:37:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\Models\\User.cs",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:34:23.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SakchyamAcharya1_Dot_Net_Assignment.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj",
+              "RelativeDocumentMoniker": "SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj",
+              "RelativeToolTip": "SakchyamAcharya1_Dot_Net_Assignment\\SakchyamAcharya1_Dot_Net_Assignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T13:34:39.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

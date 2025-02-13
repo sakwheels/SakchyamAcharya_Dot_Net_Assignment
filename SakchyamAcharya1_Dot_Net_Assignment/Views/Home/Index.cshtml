@@ -1,0 +1,39 @@
+﻿@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@using Microsoft.AspNetCore.Identity
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5 text-center">
+    <div class="jumbotron bg-light p-5 rounded">
+        <h1 class="display-4">Welcome to Food Delivery System By
+            'SAK Wheels'</h1>
+        <p class="lead">Delicious meals delivered to your doorstep with just a few clicks.</p>
+        <hr class="my-4">
+        <p>Explore the best dishes from top restaurants around you.</p>
+        @if (SignInManager.IsSignedIn(User))
+ {
+        <a class="btn btn-primary btn-lg" href="/OrderPleases" role="button">Order Now</a>
+ }
+    </div>
+
+    
+</div>
+
+<style>
+    .jumbotron {
+        background: linear-gradient(to bottom right, #ff7e5f, #feb47b);
+        color: white;
+    }
+
+    .btn-primary {
+        background-color: #ff5722;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-primary:hover {
+        background-color: #e64a19;
+    }
+</style>
